@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714217550 source:c:\c++\decryption\encryption\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

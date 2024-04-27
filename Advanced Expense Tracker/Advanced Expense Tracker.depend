@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1714244971 source:c:\c++\advanced expense tracker\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<iomanip>
+

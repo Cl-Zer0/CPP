@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1714219314 source:c:\c++\algorithm sorter visual\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<chrono>
+	<thread>
+

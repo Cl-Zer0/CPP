@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714295863 source:c:\c++\sime and compound interest calculator\main.cpp
+	<iostream>
+	<cmath>
+
